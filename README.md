@@ -1,6 +1,7 @@
 # chatter
 
-A new Flutter project.
+A chat app UI using flutter called chatter
+SS soon because its still messy
 
 ## Getting Started
 
